@@ -130,3 +130,4 @@ a, a:link, a:active, a:visited, a:hover{
 .portfolio > div > img{
 	width: 100%;
 }
+.ui-page { -webkit-backface-visibility: hidden; } 
