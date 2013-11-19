@@ -122,3 +122,11 @@ a, a:link, a:active, a:visited, a:hover{
 .mm-list > li > a, .mm-list > li > span{
 	line-height: 19px;
 }
+.portfolio > div{
+	width:45%;
+	float:left;
+	padding: 7px;
+}
+.portfolio > div > img{
+	width: 100%;
+}
