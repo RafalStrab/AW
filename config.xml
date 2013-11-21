@@ -13,6 +13,8 @@
     <author href="http://www.alchemyworx.com" email="info@alchemyworx.com">
         AWContact 
     </author>
-
+	
+	<gap:plugin name="org.apache.cordova.camera" />
+	
     <access origin="*" subdomains="true"/>
 </widget>
