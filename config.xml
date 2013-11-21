@@ -14,7 +14,7 @@
         AWContact 
     </author>
 	
-	<gap:plugin name="org.apache.cordova.camera" />
+	<plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
 	
     <access origin="*" subdomains="true"/>
 </widget>
